@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这是吴井红老师的个人主页.
 
-### More Information
+### 鸣谢
 
-A place to include any other types of information that you'd like to include about yourself.
+感谢: [jekyll-now](https://github.com/barryclark/jekyll-now) (GitHub repository) 提供网站的设计样式支持.
 
-### Contact me
+### 联系方式
 
-[email@domain.com](mailto:email@domain.com)
+邮箱: [wjh@mail.shufe.edu.cn](mailto:wjh@mail.shufe.edu.cn)
